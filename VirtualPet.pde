@@ -30,7 +30,7 @@ ellipse(264,170,50,50);// eye right
 fill(0,0,0);
 ellipse(200,170,20,20); //pupil left
 ellipse(264,170,20,20);// pupil right
-
+}
 void draw(){
 size(600, 600);
 background(152,190,100);
